@@ -3,6 +3,8 @@ name = "secretfile"
 version = "0.1.0"
 edition = "2021"
 description = "A small library for helping with loading secrets from files including systemd service credentials support"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/icewind1991/secretfile"
 
 [dependencies]
 thiserror = "1.0.57"
