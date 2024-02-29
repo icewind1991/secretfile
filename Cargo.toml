@@ -1,0 +1,8 @@
+[package]
+name = "secretfile"
+version = "0.1.0"
+edition = "2021"
+description = "A small library for helping with loading secrets from files including systemd service credentials support"
+
+[dependencies]
+thiserror = "1.0.57"
